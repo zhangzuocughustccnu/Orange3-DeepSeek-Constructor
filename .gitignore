@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Build artifacts
+build/
+dist/
+*.egg
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# Credentials - never commit or publish these
+.pypirc
+.env
+Pypi-token.txt
+*[Tt]oken*.txt
+*[Ss]ecret*
