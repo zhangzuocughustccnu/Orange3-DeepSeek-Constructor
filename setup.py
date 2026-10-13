@@ -9,9 +9,9 @@ from setuptools import setup, find_packages
 # Package metadata
 # ---------------------------------------------------------------------------
 NAME = "Orange3-DeepSeek-Constructor"
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 
-AUTHOR = "ZZAKimi"
+AUTHOR = "Zuo Zhang and Yuxin Zhang"
 AUTHOR_EMAIL = "zhangzuocug@163.com"
 
 GITHUB_USER = "zhangzuocughustccnu"

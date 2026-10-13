@@ -32,6 +32,10 @@ pip install Orange3-DeepSeek-Constructor
 
 The API key is stored with Orange's credential manager, never in the workflow.
 
+## Authors
+
+Developed by **Zuo Zhang and Yuxin Zhang**.
+
 ## License
 
 MIT
